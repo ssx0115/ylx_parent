@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../casDemo1" />
+    <file type="web" url="file://$PROJECT_DIR$/../casDemo2" />
+    <file type="web" url="file://$PROJECT_DIR$/../springSecurity" />
+    <file type="web" url="file://$PROJECT_DIR$/service_buyer" />
+    <file type="web" url="file://$PROJECT_DIR$/service_page" />
+    <file type="web" url="file://$PROJECT_DIR$/service_search" />
+    <file type="web" url="file://$PROJECT_DIR$/service_sellgoods" />
+    <file type="web" url="file://$PROJECT_DIR$/service_user" />
+    <file type="web" url="file://$PROJECT_DIR$/web_manager" />
+    <file type="web" url="file://$PROJECT_DIR$/web_portal" />
+    <file type="web" url="file://$PROJECT_DIR$/web_shop" />
+    <file type="web" url="file://$PROJECT_DIR$/web_user" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringBootDemoActiveMQ/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssmDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../casDemo1/pom.xml" />
+        <option value="$PROJECT_DIR$/../casDemo2/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../springBootActiveMQDemo/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://activemq.apache.org/schema/core" location="$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.2.0/activemq-all-5.2.0.jar!/activemq.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
